@@ -15,9 +15,9 @@ npm start or yarn start  # open localhost:3000
 ```
 
 ## Screenshots 
-![List ] (screenshots/pokemon-list.png)
+![List](screenshots/pokemon-list.png)
 
-![Details] (screenshots/pokemon-details.png)
+![Details](screenshots/pokemon-details.png)
 
 **Feel free to send pull requests to complete and improve the application**
 
