@@ -8,8 +8,8 @@
 ## Getting started 
 
 ```sh
-git clone git@github.com:EvertonCosmo/Workshop-React.git
-cd Workshop-React 
+git clone git@github.com:EvertonCosmo/Workshop-React-Pokedex.git
+cd Workshop-React-Pokedex
 npm install or yarn install 
 npm start or yarn start  # open localhost:3000
 ```
