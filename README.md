@@ -1,4 +1,7 @@
 # WorkShop React - Pokédex React 
+
+Workshop ministered na Federal University of Ceará about the react basics fundamentals 
+
 **Pokédex React**  learning purposes 
 
 **References** : https://github.com/magarcia/react-pokedex 
