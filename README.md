@@ -1,6 +1,6 @@
 # WorkShop React - Pokédex React 
 
-Workshop ministered na Federal University of Ceará about the react basics fundamentals 
+Workshop ministered at Federal University of Ceará about the react basics fundamentals 
 
 **Pokédex React**  learning purposes 
 
